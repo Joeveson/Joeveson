@@ -1,9 +1,9 @@
 ## Olá! Me chamo Joeveson Pereira de Sousa
 
 - 💻 Hoje trabalho como Analista de Infraestrutura
-- Estudando Cloud
-- Bacharel em Sistema de Informação
-- Pós Graduado em Projeto de Redes e Computação em Nuvem
+- 📚 Estudando Cloud
+- 🎓 Bacharel em Sistema de Informação
+- 🎓 Pós Graduado em Projeto de Redes e Computação em Nuvem
 
 <div align="center">
   <a href="https://github.com/joeveson">
