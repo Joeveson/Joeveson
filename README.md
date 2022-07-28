@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Olá! Me chamo Joeveson Pereira de Sousa
 
 - 💻 Hoje trabalho como Analista de Infraestrutura
