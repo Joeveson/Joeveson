@@ -4,6 +4,7 @@
 - 🎓 Bacharel em Sistema de Informação
 - 🎓 Pós Graduado em Projeto de Redes e Computação em Nuvem
 - 🙍🏾‍♂️ 29 Anos 
+- 📍 Brasília-DF
 
 ##
 
