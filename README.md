@@ -1,8 +1,8 @@
 ## Olá! Me chamo Joeveson Pereira de Sousa
 
-- 💻 Hoje trabalho como Analista de Infraestrutura
-- 🎓 Bacharel em Sistema de Informação
-- 🎓 Pós Graduado em Projeto de Redes e Computação em Nuvem
+- 💻  Hoje trabalho como Analista de Infraestrutura
+- 🎓  Bacharel em Sistema de Informação
+- 🎓  Pós Graduado em Projeto de Redes e Computação em Nuvem
 - 🙍🏾‍♂️ 29 Anos 
 - 📍 Brasília-DF
 
