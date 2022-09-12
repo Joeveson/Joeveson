@@ -5,7 +5,7 @@
 - 🎓 Pós Graduado em Projeto de Redes e Computação em Nuvem
 - 🙍🏾‍♂️ 29 Anos 
 - 📍 Brasília-DF
-- 📚 Estudante de Python
+- 📚 Estudante de Python / Cloud
 
 ##
 
