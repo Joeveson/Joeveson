@@ -2,9 +2,9 @@
 
 - 🎓 Bacharel em Sistema de Informação
 - 🎓 Pós Graduado em Projeto de Redes e Computação em Nuvem
-- 🙍🏾‍♂️ 30 Anos 
+- 🙍🏾‍♂️ 31 Anos 
 - 📍 Brasília-DF
-- 📚 Estudante de Python / Cloud
+- Administrador de Redes
 
 ##
 
